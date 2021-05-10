@@ -8,7 +8,7 @@ public class pattern8
       for ( j = 5; j>=i; j++)
       {
         if(j<= i)
-        System.out.print(" 1 ")
+        System.out.print(" 1 ");
         else 
         System.out.print();
       }
