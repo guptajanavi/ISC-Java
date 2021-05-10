@@ -1,4 +1,4 @@
-/*import java.util.*;
+import java.util.*;
 public class arrayFiveSixSevenSort
 {
   public static void main (String [] args)
@@ -19,9 +19,4 @@ public class arrayFiveSixSevenSort
       System.out.println(A[i]);
     }
   }
-}*/
-import java.util.*;
-public class arrayFiveSixSeven
-{
-  public 
 }
