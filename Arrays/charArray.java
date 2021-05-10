@@ -14,4 +14,4 @@ public class charArray
     for ( int i = 0; i<A.length; i++)
     System.out.println(A[i]);
   }
-}//scanner sc = new scanner (system.in); filewriter fw = new filewriter (system.in); bufferedwriter bw = new bufferedwriter (fw);
+}
