@@ -40,7 +40,7 @@ public class mylink{
       node ptr;
       node prev; 
       int ctr = 0;
-      for (prev = start, ptr = start.next; ptr!=null, prev= start ){
+      for (prev = start, ptr = start.next; ptr!=null; prev= start ){
         ctr++;
       }
     }
